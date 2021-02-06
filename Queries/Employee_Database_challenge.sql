@@ -55,4 +55,14 @@ FROM mentorship_elegible
 GROUP BY title
 ORDER BY COUNT(title) DESC;
 
-
+SELECT ut.emp_no,
+		ut.first_name,
+		ut.last_name,
+		ut.title,
+		s.emp_no,
+		s.salary
+-- INTO retirement_salaries
+FROM unique_titles AS ut
+LEFT JOIN salaries AS s
+ON ut.emp_no = s.emp_no
+ORDER BY s.salary DESC;
