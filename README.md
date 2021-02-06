@@ -19,7 +19,7 @@ After preforming the analysis on Pewlett Hackard’s employee data, four major c
 ![](promotions_examples.png)
 
 ## Summary
-- Pewlett Hackard will need to start thinking about the future of the company because a total of 90,398 employee roles will need to be filed as the “silver tsunami” begins to make an impact.  By creating a new SQL query, we can also analyze the salaries of the senior employees and estimate the amount of money that will potentially be available to the company after the "silver tsunami" for investingfor the future.
+- Pewlett Hackard will need to start thinking about the future of the company because a total of 90,398 employee roles will need to be filed as the “silver tsunami” begins to make an impact.  By creating a new SQL query, we can also analyze the salaries of the senior employees and estimate the amount of money that will potentially be available to the company after the "silver tsunami" for investing for the future.
 
 ![](retirement_salaries.png)
 
