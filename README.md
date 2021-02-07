@@ -25,4 +25,6 @@ After preforming the analysis on Pewlett Hackard’s employee data, four major c
 
 - Pewlett Hackard is in good position when it comes to training the junior employees for the mentorship program.  By creating a new table based on employees that are elegiable for the mentorship program, Pewlett Hackard has 1,549 junior employees eligible for the mentorship program and 90,398 experienced senior employees over a variety of different departments retiring in the near future who would make great mentors to the junior employees.
 
+![](retiring_titles.png)
+
 ![](mentorship_elegible_count.png)
