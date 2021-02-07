@@ -1,2 +1,2 @@
-* linguist-vendored
-*.sql linguist-vendored=false
+# direct SQL
+*.* linguist-language=SQL
