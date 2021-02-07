@@ -1,2 +1,2 @@
-# direct SQL
-*.* linguist-language=SQL
+*.sql linguist-language=sql
+*.my linguist-language=sql
